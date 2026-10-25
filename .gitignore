@@ -48,3 +48,5 @@ build/
 logs/
 
 /uploads
+# Secrets locaux : ne jamais committer (voir .env.example)
+.env
